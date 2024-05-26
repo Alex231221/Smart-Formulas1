@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="#BDDA9B"
     tools:context=".settingActivity">
 
     <TextView
@@ -12,8 +12,6 @@
         android:layout_width="325dp"
         android:layout_height="540dp"
         android:text="Это игра способствует изучению физики в интерактивной и увлекательной форме, помогая игрокам лучше запомнить и понять сложные концепции.Регулярная игра помогает улучшить память, так как игрокам приходится запоминать и вспоминать различные физические факты и принципы. Возможность соревноваться с друзьями или другими игроками может сделать процесс обучения более захватывающим и мотивирующим.Интерактивный формат игры делает процесс обучения динамичным и увлекательным, что может повысить интерес к предмету.
-
-
 "
         android:textColor="#F8F3F3"
         android:textSize="21dp"
